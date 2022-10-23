@@ -1,3 +1,0 @@
-File WatchTower has detected a new files. The attached document contains more details about newly detected files.
-Number of New Files Detected: %NEW_FILE_COUNT%
-

@@ -1,3 +1,0 @@
-File WatchTower unable not start because unable to access the watch list file '%WATCH_LIST_FILE_PATH%'
-Detected: %DETECTION_TIME%
-

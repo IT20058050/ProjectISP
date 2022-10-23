@@ -1,6 +1,6 @@
-# File Watchtower
+# File Lighthouse
 
-File Watchtower is a lightweight file integrity monitoring tool. This tool is able to detect, log and report file content change, file deletion, file renaming and creation. Whenever an violation is occurs, File Watchtower will notify you by Email and also will produce logs about the incident.
+File Lighthouse is a lightweight file integrity monitoring tool. This tool is able to detect, log and report file content change, file deletion, file renaming and creation. Whenever an violation is occurs, File Lighthouse will notify you by Email and also will produce logs about the incident.
 
 Features:
 * Detect a change in a file content.

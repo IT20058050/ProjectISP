@@ -1,2 +1,0 @@
-/var/www/html/uploads, true, .png|.css|.jpg, 25097152
-/var/www/html/blog/wp-config.php

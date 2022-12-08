@@ -32,10 +32,9 @@ The single file monitoring format is as follows:
 
 The directory monitoring format is as follows which consists of the order:
 
-```bash
+
 directory path, state "true" or "false"  to specify if subdirectories needs to be monitored as well, files extensions that needs to be excluded from the monitoring process separated by "|", the maximum file size in bytes.
-```
 
 
-## License
-GNU General Public License v2.0
+
+

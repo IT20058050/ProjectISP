@@ -80,4 +80,8 @@ $ crontab -e
 
 ![Lighthouse](https://user-images.githubusercontent.com/115925659/206356890-83813773-7bae-4db0-b925-1dc497c52385.png)
 
+## License
+GNU General Public License v2.0
+
+
 
